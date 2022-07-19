@@ -15,11 +15,11 @@ This is a progressive web app that uses indexDB to store data (text) and can be 
 
 ## Installation
 
-After cloning the repo down onto your local machine, type "npm install" in terminal.
+After cloning the repo down onto your local machine, type "npm run install" in terminal.
 
 ## Usage
 
-After following the installation instruction, type "npm start" in terminal.
+After following the installation instruction, type "npm run start" in terminal.
 
 ## Contributing
 
