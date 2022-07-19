@@ -21,6 +21,8 @@ After cloning the repo down onto your local machine, type "npm run install" in t
 
 After following the installation instruction, type "npm run start" in terminal.
 
+![](/screenshot.png)
+
 ## Contributing
 
 N/A
